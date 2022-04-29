@@ -96,6 +96,10 @@ border-bottom: 1px solid #ECECEC;
     padding-bottom: 25px;
 }
 
+.logo__web {
+color: var(--accent-color);
+}
+
 .nav {
 display: flex;
 align-items: center;
@@ -112,10 +116,6 @@ color: var(--title-text-color);
     font-weight: 500;
     line-height: 1,14;
     letter-spacing: 0.02em;
-}
-
-.logo__web {
-color: var(--accent-color);
 }
 
 .nav__list {
